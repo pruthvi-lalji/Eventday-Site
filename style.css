@@ -1,0 +1,43 @@
+@font-face { font-family: BROKEN15; src: url('BROKEN15.TTF'); } 
+
+
+body {
+ background-color: #0F243E;
+}
+
+
+
+h1 {
+	font-size:130px;
+    font-family:BROKEN15;
+	color: white;
+	margin-bottom: auto;
+	word-spacing:10px;
+}
+
+.h2 {
+	
+	font-family:BROKEN15;
+	font-size:50px;
+	word-spacing: 10px;
+	letter-spacing: 5px;
+    color: white;
+    margin-top: 0px;
+	margin-bottom:auto;
+}
+
+
+#demo {
+	font-family:BROKEN15;
+	font-size:100px;
+	color: red;
+	margin-top:0px;
+	margin-bottom:auto;
+}
+
+footer {
+	font-family: Comic sans ms;
+	font-size:5px;
+	color: white;
+	
+}
