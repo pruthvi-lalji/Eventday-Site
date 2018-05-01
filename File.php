@@ -1,9 +1,9 @@
 <?php
 
-$servername = "cust-mysql-123-20";
-$username = "pruthvi";
-$password = "Pruthvidiu123";
-$dbname = "pruthvi";
+$servername = "Host";
+$username = "DBUsername";
+$password = "Password";
+$dbname = "DatabaseName";
 
 
 
